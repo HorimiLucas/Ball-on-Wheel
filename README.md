@@ -1,2 +1,2 @@
 # Ball-on-Wheel
-Repository with full/reduced order observers for a Ball-on-Wheel system. Includes graphs, videos, components list, and Octave/Arduino IDE algorithms.
+Description: Repository with LQR controller, full/reduced order observers for a Ball-on-Wheel system. Contains graphs, videos, components list, Octave/Arduino IDE code.
